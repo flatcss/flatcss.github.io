@@ -1,0 +1,23 @@
+
+body {
+	background-color: #164460;
+}
+
+.center {
+	text-align: center;
+}
+.baloo {
+	font-family: 'Baloo Bhaina', cursive;
+}
+.white {
+	color: white;
+}
+
+.headerpadding {
+	padding: 20px 30px 20px 30px;
+}
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
